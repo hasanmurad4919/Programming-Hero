@@ -1,0 +1,53 @@
+h1 {
+    color: violet;
+    background-color: saddlebrown;
+    width: 70%;
+    height: 50px;
+}
+
+p {
+    color: tomato;
+    font-size: 25px;
+    font-weight: 700;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#birthday {
+    font-size: 35px;
+    color: seagreen;
+
+
+}
+
+.friend {
+    font-size: 50px;
+
+}
+
+.varsityfriend {
+    color: crimson;
+
+}
+
+h2.friend {
+    color: cyan;
+    background-color: white;
+}
+
+.tour {
+    background-color: seagreen;
+    border: black solid 10px;
+    border-radius: 20px;
+    margin: 20px 40px 60px 80px;
+    padding: 10px 20px;
+    width: 30%;
+    display: inline-block;
+   
+}
+.textcenter{
+    text-align: center;
+}
+
+.dangarous {
+    color: red;
+}
